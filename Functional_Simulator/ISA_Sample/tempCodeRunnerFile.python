@@ -1,0 +1,4 @@
+strs = 'LS RS1 RS2 IMM'
+line = strs.split(' ')
+
+print(line[3])
